@@ -2,9 +2,5 @@
 experiments
 
 
-https://achaacha.github.io/experiments/FILENAMEHERE/.......
+https://achaacha.github.io/My-Experiments/FILENAMEHERE/.......
 
-
-webpage:
-
-https://achaacha.github.io/experiments/WebpageBuildExperiment/index.html
